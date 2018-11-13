@@ -1,0 +1,8 @@
+ Django~=2.0.6
+ djangorestframework
+ djangorestframework-jwt
+ django-cors-headers
+ cryptography
+ python-jose
+ psycopg2
+
